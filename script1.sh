@@ -1,3 +1,3 @@
-#!/usr/bin/bas
+#!/usr/bin/bass
 
 echou "helloe"
